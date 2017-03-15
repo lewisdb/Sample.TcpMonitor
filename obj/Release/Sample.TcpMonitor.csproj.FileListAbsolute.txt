@@ -1,0 +1,7 @@
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\bin\Release\Sample.TcpMonitor.exe.config
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\bin\Release\Sample.TcpMonitor.exe
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\bin\Release\Sample.TcpMonitor.pdb
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\obj\Release\Sample.TcpMonitor.ProjectInstaller.resources
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\obj\Release\Sample.TcpMonitor.csproj.GenerateResource.Cache
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\obj\Release\Sample.TcpMonitor.exe
+D:\WorkSpace\_bioconnect\Sample.TcpMonitor\obj\Release\Sample.TcpMonitor.pdb
